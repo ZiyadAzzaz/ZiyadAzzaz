@@ -37,6 +37,12 @@
   - Data Analysis
   - Also I have Approved Microsoft Office Specialist
 - 🧠 **Generative AI for Executives and Business Leaders** – IBM
+  
+---
+## 🧩 My Projects
+
+- 🧠 [HealthFit Coach AI](https://github.com/ZiyadAzzaz/HealthFit-Coach-AI)  
+  A free AI-powered fitness assistant using Amazon PartyRock & LLM.
 
 ---
 
