@@ -42,7 +42,7 @@
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/ZiyadAzzaz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://eg.linkedin.com/in/ziyad-azzaz)
 <!--[![Gmail](https://img.shields.io/badge/Email-ziyadazzazdesigner@gmail.com-red?logo=gmail)](mailto:ziyadazzazdesigner@gmail.com)-->
 
 ---
@@ -111,7 +111,7 @@
 
 I have a **deep passion** for AI, Robotics, and Technologies. I’m always driven to learn more about the things I love. I believe in the power of **collaboration**, and I'm open to working on impactful projects with people from **anywhere in the world**.
 
-🚀 Whether you're building something exciting or just want to explore new ideas, feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/ZiyadAzzaz) .
+🚀 Whether you're building something exciting or just want to explore new ideas, feel free to reach out to me via [LinkedIn](https://eg.linkedin.com/in/ziyad-azzaz) .
 
 Let’s **learn**, **grow**, and **innovate together**. 🌍💡
 
