@@ -44,6 +44,10 @@
 - 🧠 [HealthFit Coach AI](https://github.com/ZiyadAzzaz/HealthFit-Coach-AI)  
   A free AI-powered fitness assistant using Amazon PartyRock & LLM.
 
+- 🎓 [Student Record Management System](https://github.com/ZiyadAzzaz/Student_Record_Management_System)  
+  A console-based C program for managing student records with structured programming and menu-driven interfaces.
+
+
 ---
 
 ## 🌐 Connect with Me
