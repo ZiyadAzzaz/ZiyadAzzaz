@@ -47,6 +47,8 @@
 - 🎓 [Student Record Management System](https://github.com/ZiyadAzzaz/Student_Record_Management_System)  
   A console-based C program for managing student records with structured programming and menu-driven interfaces.
 
+- ⚙️ [Task Queue Simulator](https://github.com/ZiyadAzzaz/Task-Queue-Simulator)  
+  A priority-based task scheduling simulation in C that demonstrates queue management, average wait time analysis, and file export features.
 
 ---
 
