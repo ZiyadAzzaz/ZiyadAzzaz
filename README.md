@@ -50,6 +50,9 @@
 - ⚙️ [Task Queue Simulator](https://github.com/ZiyadAzzaz/Task-Queue-Simulator)  
   A priority-based task scheduling simulation in C that demonstrates queue management, average wait time analysis, and file export features.
 
+- 🌾 [Farm Management System Database](https://github.com/ZiyadAzzaz/Farm-Management-DB)  
+  A relational SQL database for modeling farmers, crops, equipment, workers, and field operations using cascading foreign keys and sample data.
+
 ---
 
 ## 🌐 Connect with Me
