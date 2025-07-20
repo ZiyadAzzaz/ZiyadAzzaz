@@ -53,6 +53,9 @@
 - 🌾 [Farm Management System Database](https://github.com/ZiyadAzzaz/Farm-Management-DB)  
   A relational SQL database for modeling farmers, crops, equipment, workers, and field operations using cascading foreign keys and sample data.
 
+- ♟️ [N-Queens Solver (BFS & DFS)](https://github.com/ZiyadAzzaz/N_Queen_Solver)  
+  A Python AI project comparing BFS and DFS algorithms to solve the N-Queens problem with visual board output and time performance stats.
+
 ---
 
 ## 🌐 Connect with Me
