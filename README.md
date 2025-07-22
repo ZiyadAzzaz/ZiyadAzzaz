@@ -65,7 +65,7 @@
 - ♻️ [Smart Trash Can](https://github.com/ZiyadAzzaz/IOT-Smart-Bin)  
   An IoT-enabled waste management system using ESP32, Blynk, and sensors — featuring a servo-controlled lid, smoke and distance detection, LCD display, buzzer alarm, and a manual conveyor belt for recycling.
 
-- 🧠 [Stroke Dataset Analysis](https://github.com/ZiyadAzzaz/Stroke_Data_Analysis)  
+- 🧠 [Stroke Dataset Analysis](https://github.com/ZiyadAzzaz/Stroke-Data-Analysis)  
   EDA and visualization of stroke dataset with insights into risk factors and medical trends.
 
 
