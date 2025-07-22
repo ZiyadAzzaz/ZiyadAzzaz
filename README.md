@@ -56,6 +56,10 @@
 - ♟️ [N-Queens Solver (BFS & DFS)](https://github.com/ZiyadAzzaz/N_Queen_Solver)  
   A Python AI project comparing BFS and DFS algorithms to solve the N-Queens problem with visual board output and time performance stats.
 
+- 🌱 [Farm Management System OOP](https://github.com/ZiyadAzzaz/Farm-Management-System-OOP)  
+  A Python-based CLI tool to manage farm records like animals, crops, equipment, and workers using object-oriented programming.
+
+
 ---
 
 ## 🌐 Connect with Me
