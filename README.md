@@ -59,6 +59,10 @@
 - 🌱 [Farm Management System OOP](https://github.com/ZiyadAzzaz/Farm-Management-System-OOP)  
   A Python-based CLI tool to manage farm records like animals, crops, equipment, and workers using object-oriented programming.
 
+- 🚗 [Car Class in Python](https://github.com/ZiyadAzzaz/Car-Class-Python-OOP)  
+  A beginner-friendly Python project demonstrating OOP using a car model, with methods to simulate engine start, drive, and show details.
+
+
 
 ---
 
