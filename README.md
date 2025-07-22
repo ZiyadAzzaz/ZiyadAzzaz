@@ -62,6 +62,9 @@
 - 🚗 [Car Class in Python](https://github.com/ZiyadAzzaz/Car-Class-Python-OOP)  
   A beginner-friendly Python project demonstrating OOP using a car model, with methods to simulate engine start, drive, and show details.
 
+- ♻️ [Smart Trash Can](https://github.com/ZiyadAzzaz/IOT-Smart-Bin)  
+  An IoT-enabled waste management system using ESP32, Blynk, and sensors — featuring a servo-controlled lid, smoke and distance detection, LCD display, buzzer alarm, and a manual conveyor belt for recycling.
+
 
 
 ---
