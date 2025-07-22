@@ -68,7 +68,8 @@
 - 🧠 [Stroke Dataset Analysis](https://github.com/ZiyadAzzaz/Stroke-Data-Analysis)  
   EDA and visualization of stroke dataset with insights into risk factors and medical trends.
 
-
+- 💬 [Yelp Review ML Analysis](https://github.com/ZiyadAzzaz/Yelp-Review-ML-Analysis)  
+  Text classification and sentiment modeling on Yelp reviews using Logistic Regression and TF-IDF.
 
 ---
 
