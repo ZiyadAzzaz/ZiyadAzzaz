@@ -71,6 +71,10 @@
 - 💬 [Yelp Review ML Analysis](https://github.com/ZiyadAzzaz/Yelp-Review-ML-Analysis)  
   Text classification and sentiment modeling on Yelp reviews using Logistic Regression and TF-IDF.
 
+- 🧮 [Banker's Algorithm Simulation in C](https://github.com/ZiyadAzzaz/bankers-algorithm)  
+  A C-based simulation of the Banker's Algorithm for deadlock avoidance and safe resource allocation in Operating Systems. Includes need matrix calculation, safety checks, and safe sequence generation.
+
+
 ---
 
 ## 🌐 Connect with Me
