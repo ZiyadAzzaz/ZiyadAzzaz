@@ -74,6 +74,10 @@
 - 🧮 [Banker's Algorithm Simulation in C](https://github.com/ZiyadAzzaz/bankers-algorithm)  
   A C-based simulation of the Banker's Algorithm for deadlock avoidance and safe resource allocation in Operating Systems. Includes need matrix calculation, safety checks, and safe sequence generation.
 
+- 📶 [Subnetting Automation in Python](https://github.com/ZiyadAzzaz/subnetting-automation)  
+  Automates subnet allocation based on host needs and visualizes the IP network structure with graphs using `ipaddress`, `networkx`, and `matplotlib`.
+
+
 
 ---
 
